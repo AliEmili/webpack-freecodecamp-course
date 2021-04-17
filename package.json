@@ -1,0 +1,24 @@
+{
+  "name": "webpack-demo-app-b96a9dbce0d4abbf156612ccb23e4be74d6fd313",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliEmili/webpack-freecodecamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliEmili/webpack-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/AliEmili/webpack-freecodecamp#readme",
+  "devDependencies": {
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
